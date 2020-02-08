@@ -1,15 +1,13 @@
 ---
 layout: page
 title: About me
-subtitle: Positively Challenging
+subtitle: 
 ---
-
-Heeseon Cheon
 
 ### Education
 Kyung Hee University
-BS in Applied Mathematics
-BS in Computer Engineering (double major)
+- BS in Applied Mathematics
+- BS in Computer Engineering (double major)
 
 ### Career
 NUBEBE Oriental Medical Clinic's Laboratory internship (2019.12~2020.02)
